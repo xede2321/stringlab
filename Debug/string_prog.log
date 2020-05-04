@@ -1,0 +1,14 @@
+﻿Build started 04.05.2020 17:08:13.
+     1>Project "c:\Users\Danil\documents\visual studio 2013\Projects\string_prog\string_prog\string_prog.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\visual studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         D:\visual studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\danil\documents\visual studio 2013\Projects\string_prog\Debug\string_prog.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\danil\documents\visual studio 2013\Projects\string_prog\Debug\string_prog.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\danil\documents\visual studio 2013\Projects\string_prog\Debug\string_prog.lib" /MACHINE:X86 Debug\main.obj
+         Debug\string.obj
+         string_prog.vcxproj -> c:\users\danil\documents\visual studio 2013\Projects\string_prog\Debug\string_prog.exe
+     1>Done Building Project "c:\Users\Danil\documents\visual studio 2013\Projects\string_prog\string_prog\string_prog.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.59
